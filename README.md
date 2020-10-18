@@ -122,3 +122,8 @@ I am currently working on being able to query the accounts in more depth, right 
 ## <div style="color:#0F1A48"> Contributing </div>
 
 Please feel free to fork, contribute, rewrite etc.
+
+## <div style="color:#0F1A48"> My Contribution </div>
+
+As their API is non existent, I'm forking this to play with it - and will contribute as I find things that fit both my own usecase, and others. This represents both a foray into "opensource/corwdsource" along with a real deep dive on some security aspects as they come up.
+
